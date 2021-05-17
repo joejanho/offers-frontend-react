@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "title": "offer 1",
+    "offerType": "percentage",
+        "offerValue": 10,
+        "activationDate": "2021-01-21T08:31:02+00:00",
+        "endDate": "2021-02-21T08:31:02+00:00",
+        "articleTypes": [{"title": "Calendars"}]
+    },
+    {
+        "id": 2,
+        "offerType": "freeshipping",
+        "offerValue": null,
+        "title": "offer 2",
+        "activationDate": "2021-01-21T08:31:02+00:00",
+        "endDate": "2021-02-21T08:31:02+00:00",
+        "articleTypes": [
+            {"title": "Mugs"},
+            {"title":"Photobooks"}
+        ]
+    }
+]
